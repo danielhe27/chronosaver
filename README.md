@@ -1,6 +1,6 @@
 # ChronoSaver
 
-## Table of Contents
+# Table of Contents
 
 - # description
 - # features
@@ -30,14 +30,10 @@ To start using ChronoSaver, open the link below &#8595; &#8595; &#8595;
 
 ## Screenshots
 
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-21-19_46_45](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/684a040f-6523-4461-99b6-4344747d7562)
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-21-21_16_33](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/a0bdde25-b37e-45aa-aa61-f0a2c5d02716)
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-10_25_17](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/ebd9edac-577f-4ad3-a3d6-db3f7cb3e6b2)
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-12_19_59](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/ebefab0f-da42-47bb-acb0-9299eec35175)
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-17_49_34](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/2ced2ecb-feb9-416a-a31f-4a11932d3be0)
-![screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2024-01-22-18_06_37](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/cdb0919c-b668-401d-a048-0f5cc4eb715d)
-![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-18_28_34](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/8574f67d-18fc-4d02-b663-6e23cf0208b1)
-
+![screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2024-01-22-18_06_37](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/e98c5a75-8d51-4492-8f3d-b3cc548093f8)
+![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-12_19_59](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/f6ee9914-6e7a-49d5-8150-df2f1f86ec9d)
+![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-22-10_25_17](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/f2673038-ee67-4336-bbc0-32c7a0612065)
+![screencapture-file-Users-herrera-calendar-chronosaver-index-html-2024-01-21-19_46_45](https://github.com/danielhe27/SqueezyQuiz/assets/142111314/41566e2f-1846-426d-a9a7-f5109647deba)
 
 
 ## License
