@@ -23,7 +23,7 @@ function colorCodeTimeblocks() {
   });
 }
 
-// event listener saves information when we click save button from the siblings (text area for the user) and also we will call local storage to show information previosly saved, so information doesn't get delete when we reload the page
+// event listener saves information when we click save button from the siblings (text area for the user) so it will save the description on righ time block
 $(function () {
   colorCodeTimeblocks();
 
@@ -37,6 +37,20 @@ $(function () {
   loadEvents();
 });
 
+// it loads events previosly saved from the localstorage on each time block 
+function loadEvents() {
+  $(".time-block").each(function () {
+    const blockHour = parseInt($(this).attr("id").split("-")[1]);
+    const savedEvent = localStorage.getItem("event-" + blockHour);
+
+    if (savedEvent !== null) {
+      $(this).find(".description").val(savedEvent);
+    } else {
+      $(this).find(".description").val("");
+    }
+    
+  });
+}
 
 
 displayTime();
