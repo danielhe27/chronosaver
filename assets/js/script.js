@@ -23,5 +23,21 @@ function colorCodeTimeblocks() {
   });
 }
 
+// event listener saves information when we click save button from the siblings (text area for the user) and also we will call local storage to show information previosly saved, so information doesn't get delete when we reload the page
+$(function () {
+  colorCodeTimeblocks();
+
+  $(".saveBtn").on("click", function () {
+    const blockHour = $(this).closest(".time-block").attr("id").split("-")[1];
+    const userEvent = $(this).siblings(".description").val();
+
+    localStorage.setItem("event-" + blockHour, userEvent);
+  });
+
+  loadEvents();
+});
+
+
+
 displayTime();
 setInterval(displayTime, 1000);
