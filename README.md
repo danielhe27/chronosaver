@@ -1,6 +1,6 @@
 # ChronoSaver
 
-# Table of Contents
+## Table of Contents
 
 - # description
 - # features
@@ -27,6 +27,7 @@ ChronoSaver is a time management web application designed to help you organize y
 
 To start using ChronoSaver, open the link below &#8595; &#8595; &#8595;
 
+# https://danielhe27.github.io/chronosaver/
 
 ## Screenshots
 
@@ -48,6 +49,6 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-#contact
+## contact
 
 Email: jdah49d@gmail.com
