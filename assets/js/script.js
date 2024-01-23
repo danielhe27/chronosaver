@@ -3,7 +3,7 @@ const timetoday = $('#time-today');
 const currentDay = dayjs();
 // function to display the right format  when we call it 
 function displayTime() {
-  const rightNow = dayjs().format('MMM DD, YYYY [at] hh:mm:ss a');
+  const rightNow = dayjs().format('MMM DD, YYYY [at] HH:mm:ss a');
   timetoday.text(rightNow);
 }
 // this function takes  compares the current hour with the blockhour and it will indetify if is present past or future 
@@ -12,6 +12,9 @@ function colorCodeTimeblocks() {
 
   $(".time-block").each(function () {
     const blockHour = parseInt($(this).attr("id").split("-")[1]);
+
+    console.log("Current Hour:", currentHour);
+    console.log("Block Hour:", blockHour);
 
     if (blockHour < currentHour) {
       $(this).removeClass("present future").addClass("past");
@@ -51,7 +54,6 @@ function loadEvents() {
     
   });
 }
-
 
 displayTime();
 setInterval(displayTime, 1000);
